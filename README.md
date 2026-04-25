@@ -143,6 +143,3 @@ Power_bi-Projects/
 ## ⭐ Support
 
 If you found this useful, don’t forget to ⭐ star the repository!
-
-* Write **project descriptions like real company case studies (VERY high impact for placements)**
-* Help you prepare how to **explain these dashboards in interviews**
